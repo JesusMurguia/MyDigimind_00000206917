@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDigimind</string>
+    <string name="title_home">My Board</string>
+    <string name="title_dashboard">New Reminder</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="remember">What do you want to remember to do?</string>
+    <string name="when">When do you want to do it?</string>
+    <string name="time">At what time?</string>
+    <string name="btn_set_time">SET TIME</string>
+</resources>
